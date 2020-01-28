@@ -1,2 +1,2 @@
-# editor-settings
-Settings for Sublime and VSCode
+# Editor's Settings
+My personal settings for Sublime and VSCode
