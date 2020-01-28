@@ -1,0 +1,17 @@
+{
+    "latex-workshop.view.pdf.viewer": "tab",
+    "editor.wordWrap": "on",
+    "workbench.colorCustomizations": {},
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.files.associations": {
+        "*.m": "matlab",   
+    },
+    "python.dataScience.sendSelectionToInteractiveWindow": false,
+    "r.rterm.windows": "C:\\Program Files\\R\\R-3.6.1\\bin\\x64\\R.exe",
+    "r.lsp.path": "C:\\Program Files\\R\\R-3.6.1\\bin\\x64\\R.exe",
+    "editor.fontSize": 15,
+    "editor.wordWrapColumn": 100,
+    "editor.fontFamily": "'Roboto Mono Regular', monospace",
+    "workbench.colorTheme": "Community Material Theme High Contrast",
+    "r.bracketedPaste": true
+}
