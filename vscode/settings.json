@@ -1,19 +1,27 @@
-{
-    "latex-workshop.view.pdf.viewer": "tab",
+{   
+    // Editor settings
+    "editor.fontSize": 15,
+    "editor.wordWrapColumn": 100,
+    "editor.fontFamily": "'Roboto Mono', monospace",
     "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    // Themes/Colors/Icons...
+    "workbench.colorTheme": "Community Material Theme High Contrast",
+    "workbench.iconTheme": "material-icon-theme",
     "workbench.colorCustomizations": {},
     "material-icon-theme.files.associations": {
         "*.m": "matlab",
     },
+    // Directories for extensions
     "matlab.mlintpath": "C:\\Program Files\\MATLAB\\R2019b\\bin\\win64\\mlint.exe",
     "python.dataScience.sendSelectionToInteractiveWindow": false,
     "r.rterm.windows": "C:\\Program Files\\R\\R-3.6.1\\bin\\x64\\R.exe",
     "r.lsp.path": "C:\\Program Files\\R\\R-3.6.1\\bin\\x64\\R.exe",
-    "editor.fontSize": 15,
-    "editor.wordWrapColumn": 100,
-    "editor.fontFamily": "'Roboto Mono', monospace",
-    "workbench.colorTheme": "Community Material Theme High Contrast",
     "r.bracketedPaste": true,
+    // Latex settings
+    "latex-workshop.view.pdf.viewer": "tab",
     "latex-workshop.latex.recipe.default": "lastUsed",
     "latex-workshop.latex.recipes": [
         {
@@ -139,7 +147,12 @@
         "*.synctex(busy)",
         "*.synctex.gz(busy)",
         "*.nav",
-        "*.synctex.gz"
+        "*.synctex.gz",
+        "*.run.xml",
+        "*.bcf"
     ],
-    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
 }
