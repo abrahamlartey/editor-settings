@@ -1,6 +1,9 @@
 {   
     // Editor settings
     "editor.fontSize": 15,
+    "editor.lineHeight": 18,
+    "editor.letterSpacing": 0.5,
+    "editor.cursorWidth": 3,
     "editor.wordWrapColumn": 100,
     "editor.fontFamily": "'Roboto Mono', monospace",
     "editor.wordWrap": "on",
